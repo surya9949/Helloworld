@@ -1,0 +1,12 @@
+ Volume in drive C is surya
+ Volume Serial Number is D508-98E0
+
+ Directory of C:\Users\Mypc\Videos\Desktop\java
+
+13-Dec-18  04:45 PM    <DIR>          .
+13-Dec-18  04:45 PM    <DIR>          ..
+13-Dec-18  03:39 PM               671 Hello.class
+13-Dec-18  03:32 PM               173 Hello.java
+13-Dec-18  04:47 PM                 0 update.txt
+               3 File(s)            844 bytes
+               2 Dir(s)  27,876,552,704 bytes free
